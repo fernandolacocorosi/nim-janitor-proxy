@@ -1,0 +1,9 @@
+{
+  "name": "nim-janitor-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy OpenAI-compatible para usar NVIDIA NIM no Janitor AI via Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
